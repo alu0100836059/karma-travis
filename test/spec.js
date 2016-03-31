@@ -108,7 +108,7 @@ suite('Pruebas con Conversor con assert', function() {
       });
     });
 });
-
+/*
 var expect = chai.expect;
 describe("Pruebas expect", function()
 {
@@ -165,5 +165,5 @@ describe("Pruebas expect", function()
                 expect(Medida.convertir("32k a k")).to.equal('ERROR introduzca algo como 2e-4 F to C');
             });
         });
-
 });
+*/
